@@ -1,0 +1,8 @@
+.active:hover{
+    cursor: pointer;
+}
+@media only screen and (max-width: 600px) {
+    .active{
+        flex: 1;
+    }
+  }
